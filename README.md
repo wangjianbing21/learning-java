@@ -51,8 +51,7 @@ public class TestDuoTai{
 	   Lady l2 = new Lady("l2",d1);
            l1.mypet();
 	   l2.mypet();
-	  // System.out.println(l1.name);
-	   // System.out.println(c1.name);
+	 
 	 
 
 
